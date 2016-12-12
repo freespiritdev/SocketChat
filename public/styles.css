@@ -28,3 +28,17 @@ form button {
 	width: 20%;
 }
 
+ #messages li:nth-child(odd) { 
+ 	background: #3dd; 
+ 	border-radius: 20px;
+ 	padding: 5px;
+ 	margin-right: 50%;
+ }
+
+  #messages li:nth-child(even) { 
+ 	background: #ccc;
+ 	color: #fff; 
+ 	border-radius: 20px;
+ 	padding: 5px;
+ 	margin-left: 50%;
+ }
