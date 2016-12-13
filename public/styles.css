@@ -8,18 +8,19 @@ ul {
 }
 
 form input {
-	border: 0;
-	padding: 20px;
+	border: 5;
+	padding: 10px;
 	width: 40%;
-	margin-right: 2%
+	margin: 0;
 }
 
 form {
 	background-color: #333;
-	padding: 4px;
+	padding: 0px;
 	bottom: 0px;
 	width: 100%;
 	position: fixed;
+    margin-left: -15px;
 }
 
 form button {
